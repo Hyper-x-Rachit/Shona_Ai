@@ -26,8 +26,12 @@ Rachit = Client(
     bot_token = BOT_TOKEN
 )
 START = f"""
-Hui! Just type `Shona your question` to get started.
-Example: `Shona Who is elon musk?`
+Hui! I am Shona 😘 An advanced Telegram ChatGPT Bot 
+
+⚡ Owner - @Hyper_x_Rachit
+⚡ Support - @Shona_Ai 
+
+U can Use me By Adding `Shona` Before Your Question.
 """
 xa = bytearray.fromhex("68 74 74 70 73 3A 2F 2F 67 69 74 68 75 62 2E 63 6F 6D 2F 4E 6F 6F 62 2D 6D 75 6B 65 73 68 2F 43 68 61 74 67 70 74 2D 62 6F 74").decode()
 axx = bytearray.fromhex("49  54 7A 5F 4C 45 47 45 4E 44 5F 43 4F 44 45 52").decode()
@@ -67,7 +71,9 @@ PNG_BTN = [
      ],
 ]
 SOURCE_BUTTONS = InlineKeyboardMarkup([[InlineKeyboardButton('SOURCE', url=f"{SOURCE}")]])
-HELP_READ = "Type `Shona Write a python code to calculate the given numbers.`"
+HELP_READ = "I can Clear Your Doubt, Your Questions, Your Homework Question 😂 Anything U want u can ask me just
+
+Type `Shona Write a python code to calculate the given numbers.`"
 HELP_BACK = [
     [
            InlineKeyboardButton(text="𝙱𝙰𝙲𝙺", callback_data="HELP_BACK"),
@@ -124,7 +130,7 @@ async def ping(client, message: Message):
         t = "**🔁|𝙱𝙰𝙱𝚄 𝙴𝙺 𝚂𝙴𝙲 𝚁𝚄𝙺𝙾 😘...**"
         txxt = await message.reply(t)
         await asyncio.sleep(0.25)
-        await txxt.edit_text("**✅|𝙷𝙾𝙶𝚈𝙰 😍**")
+        await txxt.edit_text("**✅|ummmm😍**")
         await asyncio.sleep(0.35)
         await txxt.delete()
         end = datetime.now()
