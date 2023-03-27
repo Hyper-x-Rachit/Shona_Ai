@@ -1,6 +1,8 @@
-pyrogram
+pyrogram==1.4.16
 requests
 dnspython
-tgcrypto
+tgcrypto==1.2.2
 asyncio
 openai==0.27.2
+pymongo
+motor
