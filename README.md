@@ -1,6 +1,6 @@
 # ᴄʜᴀᴛɢᴘᴛ
 <h4>ᴀʙᴏᴜᴛ ᴍᴇ!</h4>
-<pre><b>ᴀɴ ᴀᴅᴠᴀɴᴄᴇᴅ ᴛᴇʟᴇɢʀᴀᴍ ᴄʜᴀᴛɢᴘᴛ ʙᴏᴛ </b></pre>
+<pre><b>An Advanced Telegram ChatGPT Bot</b></pre>
 
 
 <details>
