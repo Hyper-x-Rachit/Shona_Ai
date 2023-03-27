@@ -12,22 +12,21 @@
 
 <details>
 <summary><h4> ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴜᴋᴏ🚀</h4></summary>
-<pre><i>ᴇɴᴛᴇʀ ᴛʜᴇ ʀᴇǫᴜɪʀᴇᴅ ᴠᴀʀs ɪɴ ᴛʜᴇ ʜᴇʀᴜᴋᴏ.</i></pre>
+<pre><i>Enter The Required Variables in Heroku</i></pre>
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Hyper_x_Rachit"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 </details>
 
 
-<i>sᴀᴍᴘʟᴇ ʙᴏᴛ ɪs ɢɪᴠᴇɴ ʙᴇʟᴏᴡ, ʏᴏᴜ ᴄᴀɴ ᴄʜᴇᴀᴋ ᴛʜᴀᴛ.</i>
+<i>Sample Bot is Given Below, U can Check That.</i>
 
 
 <details>
-<summary>sᴀᴍᴘʟᴇ ʙᴏᴛ✨</summary>
-<i> ᴀʟʟ ᴛʜᴇ ᴄᴜsᴛᴏᴍɪsᴀᴛɪᴏɴs ʟɪᴋᴇ ᴅɪғғᴇʀᴇɴᴛ sᴛᴀʀᴛ ɪᴍᴀɢᴇs ᴀɴᴅ ᴅɪғғᴇʀᴇɴᴛ sᴛɪᴄᴋᴇʀs ᴀʀᴇ ᴀᴠᴀɪʟᴀʙʟᴇ. ᴢᴅᴛ ᴄʜᴇᴀᴋ ᴛʜᴇ ᴠᴀʀs ᴀɴᴅ ғᴏʀᴋ ᴛʜᴇ ʀᴇᴘᴏsɪᴛᴏʀʏ.</i>
+<summary>Sample Bot✨</summary>
 <p align="center"><a href="https://t.me/Shona_iz_bot"> <img src="https://img.shields.io/badge/Sample%20Bot-pink?style=for-the-badge" width="220" height="38.45"/></a></p>
 </details>
 
 
-### sᴜᴘᴘᴏʀᴛ 
+### Support 
 
 <p align="center"><a href="https://t.me/Shona_Ai"> <img src="https://img.shields.io/badge/SUPPORT-black?style=for-the-badge" width="220" height="38.45"/></a></p>
 
