@@ -75,7 +75,9 @@ PNG_BTN = [
      ],
 ]
 SOURCE_BUTTONS = InlineKeyboardMarkup([[InlineKeyboardButton('SOURCE', url=f"{SOURCE}")]])
-HELP_READ = "I can Clear Your Doubt, Your Questions, Your Homework Question 😂 Anything U want u can ask me just Type Shona before ur question ~ Example Type - `Shona Write a python code to calculate the given numbers.`"
+HELP_READ = "How to use me... 
+    Shona : Ask AnyThing.
+    example: `Shona Where is TajMahal?`"
 HELP_BACK = [
     [
            InlineKeyboardButton(text="𝙱𝙰𝙲𝙺", callback_data="HELP_BACK"),
