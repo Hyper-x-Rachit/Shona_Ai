@@ -26,12 +26,12 @@ Rachit = Client(
     bot_token = BOT_TOKEN
 )
 START = f"""
-Hui! I am Shona 😘 An advanced Telegram ChatGPT Bot 
+ʜᴜɪ! ɪ ᴀᴍ sʜᴏɴᴀ😘 ᴀɴ ᴀᴅᴠᴀɴᴄᴇᴅ ᴛᴇʟᴇɢʀᴀᴍ ᴄʜᴀᴛɢᴘᴛ ʙᴏᴛ
 
-⚡ Owner - @Hyper_x_Rachit
-⚡ Support - @Shona_Ai 
+⚡ ᴏᴡɴᴇʀ - @Hyper_x_Rachit
+⚡ sᴜᴘᴘᴏʀᴛ - @Shona_Ai 
 
-U can Use me By Adding `Shona` Before Your Question.
+ᴜ ᴄᴀɴ ᴜsᴇ ᴍᴇ ʙʏ ᴀᴅᴅɪɴɢ `Shona` ʙᴇғᴏʀᴇ ʏᴏᴜʀ ǫᴜᴇsᴛɪᴏɴ.
 """
 xa = bytearray.fromhex("68 74 74 70 73 3A 2F 2F 67 69 74 68 75 62 2E 63 6F 6D 2F 4E 6F 6F 62 2D 6D 75 6B 65 73 68 2F 43 68 61 74 67 70 74 2D 62 6F 74").decode()
 axx = bytearray.fromhex("49  54 7A 5F 4C 45 47 45 4E 44 5F 43 4F 44 45 52").decode()
@@ -75,10 +75,10 @@ PNG_BTN = [
      ],
 ]
 SOURCE_BUTTONS = InlineKeyboardMarkup([[InlineKeyboardButton('SOURCE', url=f"{SOURCE}")]])
-HELP_READ = "How to use me... \n\n Shona : Ask AnyThing. \n\n example: `Shona Where is TajMahal?`"
+HELP_READ = "ʜᴏᴡ ᴛᴏ ᴜsᴇ ᴍᴇ... \n\n `Shona`: ᴀsᴋ ᴀɴʏᴛʜɪɴɢ ᴜ ᴡᴀɴᴛ. \n\n ᴇxᴀᴍᴘʟᴇ: `Shona Where is TajMahal?`"
 HELP_BACK = [
     [
-           InlineKeyboardButton(text="𝙱𝙰𝙲𝙺", callback_data="HELP_BACK"),
+           InlineKeyboardButton(text="ʙᴀᴄᴋ", callback_data="HELP_BACK"),
     ],
 ]
 
