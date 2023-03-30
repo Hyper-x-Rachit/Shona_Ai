@@ -57,6 +57,9 @@ MAIN = [
         InlineKeyboardButton(text="ʜᴇʟᴘ", callback_data="HELP"),
         InlineKeyboardButton(text="sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ", url=f"github.com/Hyper-x-Rachit/Shona_Ai")
     ],
+    [
+        InlineKeyboardButton(text="ᴜᴘᴅᴀᴛᴇ", url=f"t.me/hyperxrachit") 
+    ], 
 ]
 X = [
     [
