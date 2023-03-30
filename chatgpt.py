@@ -49,12 +49,13 @@ g=choice(x)
 MAIN = [
     [
         InlineKeyboardButton(
-            text="𝙰𝙳𝙳 𝙼𝙴",
+            text="ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ 😘",
             url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
         ),
     ],
     [
-        InlineKeyboardButton(text="𝙷𝙴𝙻𝙿", callback_data="HELP"),
+        InlineKeyboardButton(text="ʜᴇʟᴘ", callback_data="HELP"),
+        InlineKeyboardButton(text="sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ", url=f"github.com/Hyper-x-Rachit/Shona_Ai")
     ],
 ]
 X = [
