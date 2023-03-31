@@ -61,11 +61,7 @@ MAIN = [
         InlineKeyboardButton(text="ᴜᴘᴅᴀᴛᴇ 📲", url=f"t.me/hyperxrachit") 
     ], 
 ]
-X = [
-    [
-        InlineKeyboardButton(text="sʜᴏɴᴀ sᴜᴘᴘᴏʀᴛ", url=f"t.me/Shona_AI")
-    ],
-]
+
 PNG_BTN = [
     [
          InlineKeyboardButton(
