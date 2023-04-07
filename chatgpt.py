@@ -55,7 +55,7 @@ MAIN = [
         ),
     ],
     [
-    InlineKeyboardButton(text="ᴜᴘᴅᴀᴛᴇ 📲", url=f"t.me/hyperxrachit") 
+    InlineKeyboardButton(text="ᴜᴘᴅᴀᴛᴇ 📲", url=f"t.me/hyperxrachit") , 
         InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ 🖱", url=f"t.me/off_road143") 
     ], 
     [
