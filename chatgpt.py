@@ -29,7 +29,8 @@ START = f"""
 ʜᴜɪ! ɪ ᴀᴍ sʜᴏɴᴀ😘 ᴀɴ ᴀᴅᴠᴀɴᴄᴇᴅ ᴛᴇʟᴇɢʀᴀᴍ ᴄʜᴀᴛɢᴘᴛ ʙᴏᴛ
 
 ⚡ ᴏᴡɴᴇʀ - @Hyper_x_Rachit
-⚡ sᴜᴘᴘᴏʀᴛ - @Shona_Ai 
+⚡ ᴜᴘᴅᴀᴛᴇ - @Hyperxrachit
+⚡ sᴜᴍᴘᴏʀᴛ - @off_road143
 
 ᴜ ᴄᴀɴ ᴜsᴇ ᴍᴇ ʙʏ ᴀᴅᴅɪɴɢ `Shona` ʙᴇғᴏʀᴇ ʏᴏᴜʀ ǫᴜᴇsᴛɪᴏɴ.
 """
@@ -54,12 +55,13 @@ MAIN = [
         ),
     ],
     [
+    InlineKeyboardButton(text="ᴜᴘᴅᴀᴛᴇ 📲", url=f"t.me/hyperxrachit") 
+        InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ 🖱", url=f"t.me/off_road143") 
+    ], 
+    [
         InlineKeyboardButton(text="ʜᴇʟᴘ 🙌", callback_data="HELP"),
         InlineKeyboardButton(text="sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ 💻", url=f"github.com/Hyper-x-Rachit/Shona_Ai")
     ],
-    [
-        InlineKeyboardButton(text="ᴜᴘᴅᴀᴛᴇ 📲", url=f"t.me/hyperxrachit") 
-    ], 
 ]
 
 PNG_BTN = [
